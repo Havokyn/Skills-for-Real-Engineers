@@ -1,0 +1,29 @@
+{
+  "name": "hstack",
+  "version": "0.1.0",
+  "description": "Evidence-first engineering workflows for agentic systems, market infrastructure, runtime forensics, repository archaeology, and local verification.",
+  "author": {
+    "name": "Havokyn"
+  },
+  "repository": "https://github.com/Havokyn/Skills-for-Real-Engineers",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "agents",
+    "verification",
+    "runtime-forensics",
+    "market-systems",
+    "architecture"
+  ],
+  "skills": [
+    "./skills/hstack-mode",
+    "./skills/repo-archaeology",
+    "./skills/system-architecture",
+    "./skills/runtime-forensics",
+    "./skills/local-verification",
+    "./skills/agentic-systems-review",
+    "./skills/market-systems-review",
+    "./skills/adversarial-review",
+    "./skills/handoff"
+  ]
+}
